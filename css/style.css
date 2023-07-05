@@ -369,6 +369,9 @@ transition:.5s ease;
     .portfolio-container{
         grid-template-columns:1fr;
     }
+    body{
+        overflow: hidden;
+    }
     #menu-icon{
         display: block;
         margin-right: 25px;
