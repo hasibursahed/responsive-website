@@ -374,8 +374,8 @@ transition:.5s ease;
     }
     #menu-icon{
         display: block;
-        margin-right: 25px;
-        font-size: 30px;
+        margin-right: 1px;
+        font-size: 25px;
     }
     
     .portfolio h2{
@@ -459,8 +459,35 @@ transition:.5s ease;
     }
 
     .footer-iconTop{
-        margin-left: 275px;
+        margin-left: 280px;
+        margin-top: 10px;
+
+        
     }
-    
+    #btn{
+        margin-left: 62px;
+    }
+    .contact form .input-box input{
+    width: 100%;
+    }
+    .footer {
+        margin-top: 100px;
+        width: 550px;
+        
+        
+        
+    }
+    .footer p{
+        font-size:9px;
+        margin-bottom: -500px;
+        margin-top: 25px;
+        
+        
+
+        
+        
+        
+    }
+
 
 }
