@@ -426,11 +426,12 @@ transition:.5s ease;
 
     }
     .about img{
-        
-        width:400px;
+        height: 425px;
+        width: 325px;
         margin-top: 4rem;
-        margin-left:-125px ;
+        margin-left:-100px ;
         padding-top: 20px;
+        border-radius: none;
         
     
     }
@@ -441,6 +442,8 @@ transition:.5s ease;
     }
     .about h3{
         justify-content: center;
+        margin-left: 10px;
+        padding-bottom: 20px;
         
     }
     .about-content{
@@ -453,6 +456,10 @@ transition:.5s ease;
         margin-top: -200px;
 
 
+    }
+
+    .footer-iconTop{
+        margin-left: 275px;
     }
     
 
