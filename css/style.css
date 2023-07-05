@@ -70,7 +70,7 @@ section{
 .paul-img{
     height:500px ;
     width:400px ;
-    border-radius: 20px;
+    border-radius: 10px;
     margin-right: 50px;
     
 
@@ -391,8 +391,11 @@ transition:.5s ease;
         font-size: 5rem;
     }
     .home-img img{
-        width: fit-content;
+        height: 400px;
+        width: 325px;
         margin-top: 4rem;
+        margin-left: 50px;
+        
     }
     .services h2{
         margin-bottom: 3rem;
@@ -417,6 +420,7 @@ transition:.5s ease;
     
     .about{
         flex-direction: column-reverse;
+      
         
         
 
@@ -433,6 +437,7 @@ transition:.5s ease;
     .about h2{
         margin-bottom: 70px;
         margin-left: 23px;
+        
     }
     .about h3{
         justify-content: center;
@@ -442,9 +447,11 @@ transition:.5s ease;
         width: 300px;
         align-items: center;
         justify-content: center;
-        text-align: center;
+        text-align: start;
         margin-right: 70px;
         line-height: 25px;
+        margin-top: -200px;
+
 
     }
     
